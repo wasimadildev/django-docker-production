@@ -1,4 +1,5 @@
 asgiref==3.12.1
 Django==5.2.17
 gunicorn==26.2.0
+python-dotenv==1.1.1
 sqlparse==0.6.0
